@@ -1,0 +1,49 @@
+.btn {
+	width: 200px;
+	height: 200px;
+	margin: 20px;
+	border-radius: 30px;
+	border-width: 10px;
+}
+
+.red {
+	background-color: red;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+.green {
+	background-color: green;
+}
+
+.wrong {
+	background-color: red;
+}
+
+body {
+	text-align: center;
+	background-color: #011f3f;
+	color: bisque;
+}
+
+h1 {
+	font-size: 4rem;
+	font-family: "DynaPuff", cursive;
+	text-shadow: -5px 0 black, 0 5px black, 5px 0 black, 0 -5px black;
+}
+
+.row {
+	width: fit-content;
+	margin: auto;
+}
+
+.click {
+	box-shadow: 0 0 10px white;
+	opacity: 0.5;
+}
